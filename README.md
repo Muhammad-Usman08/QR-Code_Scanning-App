@@ -1,6 +1,10 @@
-# qrcode_scanner
+# QR Code Scanner App
 
-A new Flutter project.
+A Flutter project for scanning QR codes.
+
+## Packages Used
+- `qr_code_scanner`: For scanning QR codes.
+- `url_launcher`: To launch URLs from scanned QR codes.
 
 ## Getting Started
 
